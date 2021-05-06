@@ -353,7 +353,7 @@ button {
   color: var(--main-bg-color);
 }
 
-.footer-contacts__item {
+.footer__address a {
   font-size: 14px;
   line-height: calc(100% + 10px);
   letter-spacing: 0.02em;
@@ -361,7 +361,7 @@ button {
   opacity: 0.6;
 }
 
-.footer-contacts__item a:hover,
-.footer-contacts__item a:focus {
+.footer__address a:hover,
+.footer__address a:focus {
   color: var(--accent-color);
 }
